@@ -1,6 +1,6 @@
 # TinDog
 
-TinDog is a responsive landing page project created as part of the "The Complete 2023 Web Development Bootcamp" course on Udemy. This project showcases HTML, CSS, and JavaScript skills by presenting a fictional dog dating platform. The page features modern design, responsiveness for various screen sizes, and interactive elements.
+TinDog is a responsive landing page project which uses HTML, CSS and Bootstrap.
 
 **Demo:** [TinDog Demo](https://some1uknow.github.io/TinDog-bootstrap-website/)
 
@@ -12,3 +12,5 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/tindog.git
+
+2. Or simply open up index.html in your browser once you have downloaded the files.
