@@ -2,7 +2,7 @@
 
 TinDog is a responsive landing page project which uses HTML, CSS and Bootstrap.
 
-**Demo:** [TinDog Demo](https://some1uknow.github.io/TinDog-bootstrap-website/)
+**Demo:** [TinDog Demo](https://some1uknow.github.io/TinDog-react-website/)
 
 ## Installation
 
